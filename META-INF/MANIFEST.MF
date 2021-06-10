@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+
+Name: myclass/
+Sealed: true
+
+Name: threads/
+Sealed: true
+
